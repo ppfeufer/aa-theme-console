@@ -10,7 +10,7 @@ The perfect theme for all old school console nerds out there :-)
 pip install aa-theme-console
 ```
 
-Now open your `local.py` and add the following right belos your `INSTALLED_APPS`:
+Now open your `local.py` and add the following right below your `INSTALLED_APPS`:
 ```python
 # Console Thame - https://github.com/ppfeufer/aa-theme-console
 INSTALLED_APPS.insert(0, "aa_theme_console")
