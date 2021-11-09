@@ -6,6 +6,22 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
 
+## [1.1.2] - 2021-11-09
+
+### Added
+
+- Basic test suite
+- Code of Conduct
+- GitHub Templates
+- Contributing guidelines
+
+### Changed
+
+- Minimum requirements
+  - Python >= 3.7
+  - Alliance Auth >= 2.9.0
+
+
 ## [1.1.1] - 2021-10-21
 
 ### Changed
