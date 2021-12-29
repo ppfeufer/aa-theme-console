@@ -1,6 +1,8 @@
+# Django
 from django.apps import AppConfig
 
-from . import __version__
+# AA Theme Console
+from aa_theme_console import __version__
 
 
 class AaThemeConfig(AppConfig):

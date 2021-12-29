@@ -1,7 +1,10 @@
+# Standard Library
 import os
 
+# Third Party
 from setuptools import find_packages, setup
 
+# AA Theme Console
 from aa_theme_console import __version__
 
 # Read the contents of your README file
