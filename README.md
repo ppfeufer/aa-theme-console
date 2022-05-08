@@ -1,5 +1,7 @@
 # Alliance Auth Theme: Console
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N8CL1BY)
+
 The perfect theme for all old school console nerds out there :-)
 
 ![AA Theme: Console](https://raw.githubusercontent.com/ppfeufer/aa-theme-console/master/aa_theme_console/images/aa-theme-console.jpg)
