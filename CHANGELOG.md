@@ -9,6 +9,13 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ## [In Development] - Unreleased
 
 
+## [1.4.0] - 2022-07-11
+
+### Changed
+
+- Use bundled filterDropDown JS provided by AA
+
+
 ## [1.3.0] - 2022-03-02
 
 ### Added
