@@ -9,6 +9,13 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ## [In Development] - Unreleased
 
 
+## [1.5.0] - 2022-08-05
+
+### Changed
+
+- AA3 Updates
+
+
 ## [1.4.0] - 2022-07-11
 
 ### Changed
