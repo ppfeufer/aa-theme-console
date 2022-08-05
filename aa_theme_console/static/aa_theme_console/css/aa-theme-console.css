@@ -1,9 +1,9 @@
 @media all {
     * {
-        background-color: rgb(0, 0, 0) !important;
+        background-color: rgb(0 0 0) !important;
         background-image: none !important;
-        border-color: rgba(78, 154, 6, 0.6) !important;
-        color: rgb(78, 154, 6) !important;
+        border-color: rgb(78 154 6 / 60%) !important;
+        color: rgb(78 154 6) !important;
         font-family: monospace;
     }
 
@@ -11,29 +11,31 @@
         font-size: 1.4rem;
     }
 
-    .nav-pills > li > a.active, .nav-pills > li > a:hover {
-        background-color: rgba(78, 154, 6, 0.4) !important;
-        color: rgb(0, 0, 0) !important;
+    .nav-pills > li > a.active,
+    .nav-pills > li > a:hover {
+        background-color: rgb(78 154 6 / 40%) !important;
+        color: rgb(0 0 0) !important;
     }
 
-    .nav-pills > li > a.active i, .nav-pills > li > a:hover i {
+    .nav-pills > li > a.active i,
+    .nav-pills > li > a:hover i {
         background-color: transparent !important;
-        color: rgb(0, 0, 0) !important;
+        color: rgb(0 0 0) !important;
     }
 
     .template-dark-mode .nav-tabs > li.active > a {
-        background-color: rgba(78, 154, 6, 0.4) !important;
-        color: rgb(0, 0, 0) !important;
+        background-color: rgb(78 154 6 / 40%) !important;
+        color: rgb(0 0 0) !important;
     }
 
     .badge {
-        background-color: rgba(78, 154, 6, 0.4) !important;
-        color: rgb(0, 0, 0) !important;
+        background-color: rgb(78 154 6 / 40%) !important;
+        color: rgb(0 0 0) !important;
     }
 
     #wrapper .nav-tabs > li.active > a {
-        background-color: rgba(78, 154, 6, 0.4) !important;
-        color: rgb(0, 0, 0) !important;
+        background-color: rgb(78 154 6 / 40%) !important;
+        color: rgb(0 0 0) !important;
     }
 
     /* in case someone puts the nav into a panel header ...
@@ -42,12 +44,11 @@
     .panel-heading .nav-pills > li.active > a,
     .panel-heading .nav-pills > li.active > a:focus,
     .panel-heading .nav-pills > li.active > a:hover {
-        background-color: rgba(78, 154, 6, 0.4) !important;
-        color: rgb(0, 0, 0) !important;
+        background-color: rgb(78 154 6 / 40%) !important;
+        color: rgb(0 0 0) !important;
         background-image: none;
         background-repeat: no-repeat;
         border: none;
-        -webkit-filter: none;
         filter: none;
     }
 }
