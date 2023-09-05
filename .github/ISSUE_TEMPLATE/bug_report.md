@@ -4,7 +4,6 @@ about: Create a report to help us improve
 title: ''
 labels: ''
 assignees: ''
-
 ---
 
 ### Bug Description
@@ -33,7 +32,7 @@ If applicable, add screenshots to help explain your problem.
 
 ### Please complete the following information:
 
-- Theme Version:
+- App Version:
 - Alliance Auth Version:
 - Browser and Version:
 

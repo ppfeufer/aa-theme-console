@@ -45,10 +45,10 @@
     .panel-heading .nav-pills > li.active > a:focus,
     .panel-heading .nav-pills > li.active > a:hover {
         background-color: rgb(78 154 6 / 40%) !important;
-        color: rgb(0 0 0) !important;
         background-image: none;
         background-repeat: no-repeat;
         border: none;
+        color: rgb(0 0 0) !important;
         filter: none;
     }
 }
