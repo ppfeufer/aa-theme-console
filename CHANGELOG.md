@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## \[In Development\] - Unreleased
 
+### Changed
+
+- Base template for AA 3.6.1 public views
+- Minimum requirements
+  - Alliance Auth >= 3.6.1
+
 ## \[1.5.0\] - 2022-08-05
 
 ### Changed
